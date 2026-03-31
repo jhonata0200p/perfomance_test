@@ -1,4 +1,4 @@
-#Student Management System with Data Persistence
+# Student Management System with Data Persistence
 
 This project allows you to perform CRUD operations, first saving them in a dictionary list, then saving them to a CSV file for later use.
 
